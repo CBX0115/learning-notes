@@ -12,11 +12,13 @@
 
 ```
 learning-notes/
+├── README.md
 └── weibo-baekhyun-crawler/
     ├── baekhyun_crawler.py   # 爬虫主脚本
     ├── requirements.txt      # 依赖清单
     ├── .gitignore            # 排除凭证与抓取结果
-    └── README.md             # 项目说明
+    ├── README.md             # 项目说明
+    └── 爬虫是什么，怎么实现.md  # 爬虫原理与实战笔记
 ```
 
 > 各项目内的登录凭证（如 `cookie.txt`）不会提交到仓库，需自行在本地创建。

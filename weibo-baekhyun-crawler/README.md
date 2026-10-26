@@ -14,9 +14,10 @@
 
 ```
 .
-├── baekhyun_crawler.py    # 主爬虫脚本
-├── cookie.txt             # 登录凭证（本地创建，已被 .gitignore 排除）
-├── requirements.txt       # 依赖清单
+├── baekhyun_crawler.py        # 主爬虫脚本
+├── cookie.txt                 # 登录凭证（本地创建，已被 .gitignore 排除）
+├── requirements.txt           # 依赖清单
+├── 爬虫是什么，怎么实现.md      # 爬虫原理与实战笔记
 └── README.md
 ```
 
